@@ -1,3 +1,7 @@
 # SmileDetection
-This is a very simple and easy project of machine learning ....
-here i used open cv to detect the smile ....
+***********************************************************************************************
+*   INSTALL Open CV : pip install opencv-python                                               *
+*                                                                                             *
+*   NOTE : Remove all restrinction from your camera and then see the magic ...                *
+*                                                                                             *
+*   ***************************************************************************************   *
